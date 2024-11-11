@@ -30,5 +30,8 @@ Este portfólio foi criado com o objetivo de:
 
 Este é só o começo! Meu objetivo é aprimorar mais meus portfólios à medida que eu for aprendo novas tecnologias, como **JavaScript**, e **Backend Development**. Fique à vontade para explorar o código e acompanhar meu progresso!
 
+|Wireframe|![wireframe site android](https://github.com/user-attachments/assets/d2cb02f2-de29-4040-9962-e80664ec362f)
+|Projeto Pronto|![Primeiro portifolio site mascote Android](https://github.com/user-attachments/assets/e9bb92fc-f06f-4c3a-8c46-5b17820ff7fe)
+
 
 AGRADECIMENTOS AO CURSO Html5 & Css3 (modulo 1 e 2): ([Curso em Video](https://www.cursoemvideo.com)) - [@gustavoGuanabara](https://github.com/gustavoguanabara)
